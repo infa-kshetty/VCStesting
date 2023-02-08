@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "4Xx7OyGmKrwedY0KFNMdyO",
+    "name" : "iics_perf_Project_7eb_1_1",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "iics_perf_Project_7eb_1_1",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
