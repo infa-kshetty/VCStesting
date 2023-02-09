@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "2Y8ZQm6nuYUkpl5RzFMTO3",
+    "name" : "iics_v3public_pod2_Project_9feb_1_1",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "iics_v3public_pod2_Project_9feb_1_1",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
