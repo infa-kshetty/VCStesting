@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "aKfm86MJ3cdfe3L0sUAqgs",
+    "name" : "iics_project_10feb_7_2",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "iics_project_10feb_7_2",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
