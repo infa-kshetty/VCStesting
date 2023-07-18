@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "2jV6Kk0rssmgPYrXJIMgy3",
+    "name" : "folder_3_4_1689667877155",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "i am a folder",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
