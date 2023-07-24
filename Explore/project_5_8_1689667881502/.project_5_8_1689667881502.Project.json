@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "jU2gFq5vB0oc5nq5CUS0kN",
+    "name" : "project_5_8_1689667881502",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "i am a Project",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
