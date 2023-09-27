@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "2FJ2Yq1EGLxbu3vaPGO1eV",
+    "name" : "baseproject_1_9_1695800342320",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "i am a Project",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-09-27T09:57:01.613Z",
+  "objectRefs" : [ ]
+}
