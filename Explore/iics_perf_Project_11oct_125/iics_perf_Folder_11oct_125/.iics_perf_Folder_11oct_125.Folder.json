@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "4Ro0EljnHYYibIR3etXJql",
+    "name" : "iics_perf_Folder_11oct_125",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "iics_perf_Folder_11oct_125",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-11-15T08:35:29.959Z",
+  "objectRefs" : [ ]
+}
