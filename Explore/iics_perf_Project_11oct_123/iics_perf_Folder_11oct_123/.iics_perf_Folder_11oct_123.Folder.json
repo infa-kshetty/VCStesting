@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "aIaaclSUMOblvPxLFGrigS",
+    "name" : "iics_perf_Folder_11oct_123",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "iics_perf_Folder_11oct_123",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-11-15T07:24:39.772Z",
+  "objectRefs" : [ ]
+}

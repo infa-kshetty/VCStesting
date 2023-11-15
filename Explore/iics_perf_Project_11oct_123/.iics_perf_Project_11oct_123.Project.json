@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "1wrjCFSwVfLjlhyJlCZTai",
+    "name" : "iics_perf_Project_11oct_123",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "iics_perf_Project_11oct_123",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-11-15T07:24:39.770Z",
+  "objectRefs" : [ ]
+}
