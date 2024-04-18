@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "auyWSGSc8OxbubY82xpEu7",
+    "name" : "baseproject_4_6_1712645914072",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "i am a Project",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-04-18T06:44:34.228Z",
+  "objectRefs" : [ ]
+}
