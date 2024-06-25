@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "8HNLMm34V4bdEyWEa7ji63",
+    "id" : "8bfNe8vB2ejcofofSzwlON",
     "name" : "Mapping1",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "016RGU17000000000002"
+        "repoHandle" : "016RGR17000000000002"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -23,6 +23,6 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-06-25T17:51:06.032Z",
+  "updateTime" : "2024-06-25T17:51:09.857Z",
   "objectRefs" : [ ]
 }
