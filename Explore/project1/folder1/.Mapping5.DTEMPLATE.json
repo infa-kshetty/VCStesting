@@ -1,0 +1,48 @@
+{
+  "objectInfo" : {
+    "id" : "g7MU5oDbsWIhsWBSdI8DGV",
+    "name" : "Mapping5",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "016SBV17000000000007"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2024-06-26T14:10:26.820Z",
+  "objectRefs" : [ {
+    "id" : "1PFJY1UeBCYcN0eBASVJKZ",
+    "name" : "ff",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "016SBV0B000000000004"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
