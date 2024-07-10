@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "kY3OCXsN0ufk1jWLJrW8gK",
+    "name" : "INFA_Generic_Cloud_Service_Mapping",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "016U7N17000000000003"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2024-07-10T11:58:32.766Z",
+  "objectRefs" : [ ]
+}
