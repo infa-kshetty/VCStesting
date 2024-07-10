@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "7zTYHZyQLygdUChoEMKyQ0",
+    "id" : "9d3FrfjkqEkfdcGwa5OIss",
     "name" : "Mapping2",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "016U7M17000000000004"
+        "repoHandle" : "016U7K17000000000004"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -23,29 +23,9 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-07-10T12:08:13.694Z",
+  "updateTime" : "2024-07-10T12:12:37.984Z",
   "objectRefs" : [ {
-    "id" : "iwZa1A6u4cyeRlnE4aMkcy",
-    "name" : "Connection_1",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "016U7M0B000000000003"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Connection_1",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "5QvwJBGrkw9dQUaI82cDWi",
+    "id" : "9CcX3rjN9CihrqxwfsxN6m",
     "name" : "conn",
     "type" : "Connection",
     "metadata" : {
@@ -54,11 +34,31 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "016U7M0B000000000002"
+        "repoHandle" : "016U7K0B000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "lO5yy3iWwIuh42gpovTHCU",
+    "name" : "Connection_1",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "016U7K0B000000000003"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Connection_1",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
