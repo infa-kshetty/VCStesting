@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "2GfAtlbQPkhh5AnW2JVooR",
+    "id" : "5KcV8lvPAyaiGQDdp0RSCu",
     "name" : "Mapping2",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "016U7H17000000000004"
+        "repoHandle" : "016U7J17000000000004"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -23,29 +23,9 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-07-12T04:14:25.553Z",
+  "updateTime" : "2024-07-12T07:06:12.323Z",
   "objectRefs" : [ {
-    "id" : "gxN7YghVJwvf93hfVHaigT",
-    "name" : "conn",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "016U7H0B000000000002"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "a19PIDNUD8IjSfFugYmaqX",
+    "id" : "8UDxkv9bjFbjRhVHAPlyAb",
     "name" : "Connection_1",
     "type" : "Connection",
     "metadata" : {
@@ -54,11 +34,31 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "016U7H0B000000000003"
+        "repoHandle" : "016U7J0B000000000003"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "Connection_1",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "hZWLq4RmmKYiwSV5Np5Pk4",
+    "name" : "conn",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "016U7J0B000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
