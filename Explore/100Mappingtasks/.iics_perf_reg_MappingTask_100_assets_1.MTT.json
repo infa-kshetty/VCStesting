@@ -23,7 +23,7 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-07-23T06:06:02.739Z",
+  "updateTime" : "2024-07-23T06:09:12.551Z",
   "objectRefs" : [ {
     "id" : "aMWuDpMMbEVc2wxIPqL2CL",
     "name" : "conn",
@@ -76,7 +76,10 @@
       "repoInfo" : {
         "repoHandle" : "01213917000000000008"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
