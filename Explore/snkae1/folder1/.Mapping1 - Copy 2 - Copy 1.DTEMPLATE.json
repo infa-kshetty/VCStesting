@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "64J9TCUvoqMdKS4Tu0w6IL",
+    "name" : "Mapping1 - Copy 2 - Copy 1",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "015QIK17000000000008"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2024-08-06T12:26:00.160Z",
+  "objectRefs" : [ ]
+}
