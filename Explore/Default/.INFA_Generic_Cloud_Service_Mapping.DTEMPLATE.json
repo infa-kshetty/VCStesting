@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "2GI0yoPBwm1ei4QsDqungI",
+    "id" : "fFhioyYrMoKdeXxdnrOWkD",
     "name" : "INFA_Generic_Cloud_Service_Mapping",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "015QIR17000000000003"
+        "repoHandle" : "015QIP17000000000003"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -23,6 +23,6 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-08-06T11:38:36.082Z",
+  "updateTime" : "2024-08-06T11:38:36.095Z",
   "objectRefs" : [ ]
 }
