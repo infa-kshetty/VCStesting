@@ -18,6 +18,8 @@
     }
   },
   "dataFileExtension" : "json",
-  "updateTime" : "2024-08-02T05:20:16.168Z",
-  "objectRefs" : [ ]
+  "updateTime" : "2024-08-12T02:57:30.651Z",
+  "objectRefs" : [ ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
 }
