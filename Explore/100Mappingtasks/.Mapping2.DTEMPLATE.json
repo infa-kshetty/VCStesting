@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "j6cF1iQO6kjjJZRotDDbe2",
+    "id" : "8M5IsixwUWwe1n56NxKl2z",
     "name" : "Mapping2",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0172RZ17000000000002"
+        "repoHandle" : "01213917000000000008"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -23,29 +23,9 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-08-07T11:39:11.438Z",
+  "updateTime" : "2024-08-23T06:37:20.200Z",
   "objectRefs" : [ {
-    "id" : "avvXB1FrkafhzxNc7eYFAg",
-    "name" : "Connection_1",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0172RZ0B000000000002"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Connection_1",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "9SYUv93BbKugBQXviEADSx",
+    "id" : "aMWuDpMMbEVc2wxIPqL2CL",
     "name" : "conn",
     "type" : "Connection",
     "metadata" : {
@@ -54,7 +34,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0172RZ0B000000000003"
+        "repoHandle" : "0121390B000000000003"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -64,5 +44,27 @@
       }
     },
     "path" : "/SYS"
-  } ]
+  }, {
+    "id" : "dtSjvyo5W8yjIXbyd40Q2o",
+    "name" : "Connection_1",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0121390B000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Connection_1",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
 }
